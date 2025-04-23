@@ -27,6 +27,7 @@ It is part of my internship tasks under Prodigy InfoTech, specifically Task Code
 - **JavaScript (Vanilla)**  
 
 ## 📸 Preview
+<img width="642" alt="Screenshot 2025-04-23 at 10 50 00 AM" src="https://github.com/user-attachments/assets/976063fc-3abd-4d37-9821-df065947be34" />
 
 
 ## 📂 Folder Structure
